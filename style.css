@@ -83,7 +83,7 @@ input::placeholder {
     letter-spacing: 1px;
 }
 input:focus {
-    outline: var(--Desaturated-Red);
+    outline: none;
 }
 .submit {
     height: 20px;
@@ -219,4 +219,3 @@ footer {
         display: none;
     }
 }
-/*yep*/

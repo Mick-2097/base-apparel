@@ -9,7 +9,7 @@ button.addEventListener('click', event => {
         errorIcon.style.display = 'none'
         warning.innerText = ''
         input.value = ''
-        input.style.outline = 'var(--Soft-Red)'
+        input.style.outline = 'yellowgreen solid 2px'
     } else {
         errorIcon.style.display = 'block'
         warning.innerText = 'Please provide a valid email'
